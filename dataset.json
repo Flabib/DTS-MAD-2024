@@ -1,25 +1,31 @@
 {
     "data": [
-        [
-            "DTS000000000000-00",
-            "Fahdi Labib",
-            "fahdilabib@gmail.com",
-            "MAD-D",
-            "https://github.com/Flabib"
-        ],
-        [
-            "DTS000000000000-01",
-            "Muhammad Fauzan",
-            "muhammadfauzan@gmail.com",
-            "MAD-D",
-            "https://github.com/mfauzanalg"
-        ],
-        [
-            "DTS1957887840-386",
-            "Muh. Syawal",
-            "msyawalmuis@gmail.com",
-            "MAD-D",
-            "https://github.com/syawalmuis"
-        ]
+        "DTS000000000000-00",
+        "Fahdi Labib",
+        "fahdilabib@gmail.com",
+        "MAD-D",
+        "https://github.com/Flabib"
+      ],
+      [
+        "DTS000000000000-01",
+        "Muhammad Fauzan",
+        "muhammadfauzan@gmail.com",
+        "MAD-D",
+        "https://github.com/mfauzanalg"
+      ],
+      [
+        "1957887840-350",
+        "Ahmad Fikri Husaini",
+        "ahmadfikri.20030@mhs.unesa.ac.id",
+        "MAP-D",
+        "https://github.com/AhmadFikriHusaini"
+      ],
+      [
+        "DTS1957887840-386",
+        "Muh. Syawal",
+        "msyawalmuis@gmail.com",
+        "MAD-D",
+        "https://github.com/syawalmuis"
+      ]
     ]
 }
